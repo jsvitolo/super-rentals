@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/routes/contact-compiled.js" />
+        <item url="file://$PROJECT_DIR$/tests/unit/routes/index-test-compiled.js" />
+        <item url="file://$PROJECT_DIR$/tests/unit/routes/contact-test-compiled.js" />
+        <item url="file://$PROJECT_DIR$/app/routes/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/app/models/rental-compiled.js" />
+        <item url="file://$PROJECT_DIR$/app/router-compiled.js" />
+        <item url="file://$PROJECT_DIR$/tests/unit/models/rental-test-compiled.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/routes/contact-compiled.js" />
+      <root url="file://$PROJECT_DIR$/tests/unit/routes/index-test-compiled.js" />
+      <root url="file://$PROJECT_DIR$/tests/unit/routes/contact-test-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/routes/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/models/rental-compiled.js" />
+      <root url="file://$PROJECT_DIR$/app/router-compiled.js" />
+      <root url="file://$PROJECT_DIR$/tests/unit/models/rental-test-compiled.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
